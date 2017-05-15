@@ -70,4 +70,8 @@ void TurnR(int S, int T){ // Turn Right, S = moveSpeed, T = moveTime.
   RightMotor->run(FORWARD);
   LeftMotor->run(FORWARD);
   delay(T);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master

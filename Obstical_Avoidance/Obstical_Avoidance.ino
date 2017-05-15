@@ -125,4 +125,8 @@ long microsecondsToCentimeters(long microseconds)
   // The ping travels out and back, so to find the distance of the
   // object we take half of the distance travelled.
   return microseconds / 29 / 2;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master
